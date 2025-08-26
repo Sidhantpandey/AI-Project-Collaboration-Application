@@ -32,15 +32,14 @@ A modern, full-stack AI-powered project management and team collaboration platfo
 ### Dev Tools
 - ESLint + Prettier
 - Husky + lint-staged
-- Git
 
 ---
 
 ## Getting Started
 
 ### Prerequisites
-- Node.js v18+
-- npm or yarn
+- Node.js v22+
+- npm 
 
 ### 1. Clone the repository
 
